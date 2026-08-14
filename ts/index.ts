@@ -5,3 +5,5 @@ function greet(person, date) {
   );
 }
 greet("Maddison", new Date());
+
+// type assertions
